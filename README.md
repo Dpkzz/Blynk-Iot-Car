@@ -1,3 +1,6 @@
+# ESP8266 Blynk Control Project
+
+## Description
 This project uses an **ESP8266** microcontroller with **Blynk** to control GPIO pins over WiFi.  
 It allows remote control via a **mobile app** using the **Blynk cloud platform**.
 
